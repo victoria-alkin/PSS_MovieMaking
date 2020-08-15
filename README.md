@@ -11,5 +11,5 @@ To make the right half of the video:
 2. Run PSSmovies.py to create a video for each set of 120 images visualizing the rotation of the PSS and local region meshes.
 3. Run moviept2.py to compile one video from the videos created for each point.
 
-To make the full video:
+To make the full video: 
 1. Run fullmovie.py (after moviept1.mp4 and moviept2.mp4 are made).
